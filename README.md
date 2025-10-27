@@ -76,41 +76,32 @@ Simply upload an image 📸 and let the AI predict the disease within seconds!
 skin-disease-classifier/
 
 │
-
 ├── app/
-
 │   ├── streamlit_app.py        # 🌈 Streamlit main UI
-
 │   ├── static/                 # 🎨 Backgrounds, icons, etc.
-
 │   └── models/
-
 │       └── final_model.h5      # 🧠 Trained CNN model
-
 │
-
 ├── dataset/
-
 │   ├── train/                  # 🧾 Training images
-
 │   └── test/                   # 🧪 Test images
-
 │
-
 ├── requirements.txt
 
-
 ├── README.md
-
 └── class_indices.json          # 🔢 Class label mappings
 
 
 🖥️ Features
 
 ✨ Upload & preview skin images.
+
 🤖 Predicts disease type and confidence level.
+
 🌈 Light theme with animated glowing particles.
+
 🧾 Displays previously tested images.
+
 💬 Simple, minimal, and magical UI — like your story app! 🌟
 
 
@@ -126,9 +117,13 @@ eczema.png	         Eczema	               91.3%
 🔮 Future Enhancements
 
 🚀 Add disease descriptions and treatment guidelines.
+
 🌍 Multi-language support.
+
 📱 Mobile-friendly design.
+
 📸 Integrate real-time camera capture.
+
 💾 Include cloud storage for medical reports.
 
 🧑‍💻 Author
