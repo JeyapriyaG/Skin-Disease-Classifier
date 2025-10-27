@@ -88,11 +88,16 @@ skin-disease-classifier/
 
 │   ├── static/                 # 🎨 Backgrounds, icons, etc.
 
+
 │   └── models/
+
 │       └── final_model.h5      # 🧠 Trained CNN model
 │
+
 ├── dataset/
+
 │   ├── train/                  # 🧾 Training images
+
 │   └── test/                   # 🧪 Test images
 │
 
