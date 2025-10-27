@@ -104,6 +104,7 @@ skin-disease-classifier/
 ├── requirements.txt
 
 ├── README.md
+
 └── class_indices.json          # 🔢 Class label mappings
 
 
