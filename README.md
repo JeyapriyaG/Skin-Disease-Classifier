@@ -8,6 +8,9 @@ users can instantly receive predictions powered by a Convolutional Neural Networ
 
 This project supports early disease detection 🔍 and aims to aid dermatological diagnosis in a fast, accessible, and interactive way!
 
+
+
+
 🎯 Objectives
 
 🎨 Create a clean and user-friendly interface for image uploads.
@@ -22,7 +25,9 @@ This project supports early disease detection 🔍 and aims to aid dermatologica
 
 The classifier is based on a Convolutional Neural Network (CNN) trained on preprocessed dermatology image datasets.
 
+
 Architecture Highlights:
+
 
 📥 Input: RGB skin image (224×224 px)
 
@@ -38,6 +43,7 @@ Architecture Highlights:
 💻 Layer	
 
 🧩 Technologies Used
+
 
 Frontend	Streamlit,
 HTML, 
@@ -77,8 +83,11 @@ skin-disease-classifier/
 
 │
 ├── app/
+
 │   ├── streamlit_app.py        # 🌈 Streamlit main UI
+
 │   ├── static/                 # 🎨 Backgrounds, icons, etc.
+
 │   └── models/
 │       └── final_model.h5      # 🧠 Trained CNN model
 │
@@ -86,6 +95,7 @@ skin-disease-classifier/
 │   ├── train/                  # 🧾 Training images
 │   └── test/                   # 🧪 Test images
 │
+
 ├── requirements.txt
 
 ├── README.md
